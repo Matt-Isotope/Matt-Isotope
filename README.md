@@ -2,7 +2,7 @@
 
 # Matt Isotope
 
-Researcher and scientific developer specialising in stable isotope analysis, with a particular focus on non-traditional isotopes applied to the study of archaeological human remains.
+Researcher specialised in stable isotope analysis, with a particular focus on non-traditional isotopes applied to the study of archaeological human remains.
 
 I earned my PhD at Sapienza University of Rome, where I developed interdisciplinary research at the intersection of archaeology, bioarchaeology, geochemistry, and scientific data analysis.
 
